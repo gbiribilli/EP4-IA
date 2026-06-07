@@ -7,7 +7,7 @@
 
 ---
 
-## 5.3.1 Escolha dos Hiperparâmetros
+## Escolha dos Hiperparâmetros
 
 ### Taxa de aprendizado α
 
@@ -71,7 +71,7 @@ Com 480.000 episódios totais:
 
 ---
 
-## 5.3.2 Mecânica da Exploração
+## Mecânica da Exploração
 
 ### Como o agente escolhe as ações durante o treino
 
@@ -106,7 +106,7 @@ Os 16 ambientes são pré-carregados antes do loop de treino, evitando recalcula
 
 ---
 
-## 5.3.3 Implementação
+## Implementação
 
 ### Modelagem do MDP
 
@@ -173,7 +173,7 @@ ep 16 → pista_07 | ep 17 → pista_03 | ...
 
 ---
 
-## 5.3.4 Resultado nas pistas de holdout 17 e 18
+## Resultado nas pistas de holdout 17 e 18
 
 ### Métricas da avaliação gulosa
 
